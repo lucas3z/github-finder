@@ -2,8 +2,6 @@
 
 > React app to search Github profiles. This app uses the Context API along with the useContext and useReducer hooks for state management.
 
-[Live Demo](https://clever-poitras-a2cffd.netlify.app/)
-
 ## Usage
 
 ### `npm install`
